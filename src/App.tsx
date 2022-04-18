@@ -4,7 +4,7 @@ import './App.css';
 
 function App() {
   return (
-    <div className="bcolor1 background">
+    <div className="bcolor3 background">
       <div className="header">
         <div className="header-left"><div className="img1 logo" /><div className="color1">Login Page</div></div>
         <div className="header-right">
@@ -53,7 +53,7 @@ function App() {
                   </svg>
               </div>
           </div>
-          <div className="login-body bcolor3">
+          <div className="login-body bcolor1">
               <br />
               <br />
               <br />

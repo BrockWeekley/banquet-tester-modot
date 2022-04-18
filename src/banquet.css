@@ -10,8 +10,12 @@
     color: #DD2366;
 }
 
+.color3 {
+    color: #222428;
+}
+
 .bcolor1 {
-    background-color: #222428;
+    background-color: whitesmoke;
 }
 
 .bcolor2 {
@@ -19,5 +23,5 @@
 }
 
 .bcolor3 {
-    background-color: whitesmoke;
+    background-color: #222428;
 }
