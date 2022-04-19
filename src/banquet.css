@@ -1,17 +1,13 @@
-.img1 {
-    background-image: url(https://ridsi-dash.com/static/media/favicon.51392cb9.png);
-}
-
 .color1 {
     color: whitesmoke;
 }
 
 .color2 {
-    color: #DD2366;
+    color: black;
 }
 
 .color3 {
-    color: #222428;
+    color: white;
 }
 
 .bcolor1 {
@@ -19,9 +15,9 @@
 }
 
 .bcolor2 {
-    background-color: #DD2366;
+    background-color: black;
 }
 
 .bcolor3 {
-    background-color: #222428;
+    background-color: white;
 }
